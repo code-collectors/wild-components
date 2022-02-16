@@ -11,6 +11,7 @@
     "cypress": "cypress open"
   },
   "dependencies": {
+    "gsap": "^3.9.1",
     "vue": "^3.2.25"
   },
   "devDependencies": {
